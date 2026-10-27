@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(226, 241, 241);
+}
+.position{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+h1{
+    color: rgb(124, 124, 86);
+    font-size: 50px;
+}
+
+p{
+    color: green;
+    font-size: 25px;
+    padding-left: 100px;
+    padding-right: 100px
+    
+    
+}
+
+.img{
+    height: 300px;
+}
